@@ -1,0 +1,52 @@
+{
+   "results":[
+      {
+         "inbound":{
+            "airline":"Sunfyre",
+            "airlineImage":"http://dragonimages.net/images/gallery/dragon-images-by-unknown-239.jpg",
+            "arrivalDate":"8/29/3801",
+            "arrivalTime":"5:59",
+            "departureDate":"1/29/3794",
+            "departureTime":"23:10",
+            "destination":"Gulltown",
+            "origin":"White Harbor"
+         },
+         "outbound":{
+            "airline":"Ghiscar",
+            "airlineImage":"http://dragonimages.net/images/gallery/dragon-images-by-unknown-234.jpg",
+            "arrivalDate":"1/30/3871",
+            "arrivalTime":"4:17",
+            "departureDate":"1/19/3862",
+            "departureTime":"12:40",
+            "destination":"White Harbor",
+            "origin":"Gulltown"
+         },
+         "price":3523.23,
+         "currency":"GBP"
+      },
+      {
+         "inbound":{
+            "airline":"Archonei",
+            "airlineImage":"http://dragonimages.net/images/gallery/dragon-images-by-unknown-222.jpg",
+            "arrivalDate":"9/13/4849",
+            "arrivalTime":"21:30",
+            "departureDate":"9/12/4846",
+            "departureTime":"12:33",
+            "destination":"New Ghis",
+            "origin":"Asshai"
+         },
+         "outbound":{
+            "airline":"Valryon",
+            "airlineImage":"http://dragonimages.net/images/gallery/dragon-images-by-unknown-229.jpg",
+            "arrivalDate":"10/25/4938",
+            "arrivalTime":"1:20",
+            "departureDate":"8/29/4936",
+            "departureTime":"12:12",
+            "destination":"Asshai",
+            "origin":"New Ghis"
+         },
+         "price":2734.95,
+         "currency":"EUR"
+      }
+   ]
+}

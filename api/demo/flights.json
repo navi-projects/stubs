@@ -3,7 +3,7 @@
       {
          "inbound":{
             "airline":"Sunfyre",
-            "airlineImage":"http://dragonimages.net/images/gallery/dragon-images-by-unknown-239.jpg",
+            "airlineImage":"https://raw.githubusercontent.com/navi-projects/stubs/main/api/images/airindia.png",
             "arrivalDate":"8/29/3801",
             "arrivalTime":"5:59",
             "departureDate":"1/29/3794",
@@ -13,7 +13,7 @@
          },
          "outbound":{
             "airline":"Ghiscar",
-            "airlineImage":"http://dragonimages.net/images/gallery/dragon-images-by-unknown-234.jpg",
+            "airlineImage":"https://raw.githubusercontent.com/navi-projects/stubs/main/api/images/srilankan.png",
             "arrivalDate":"1/30/3871",
             "arrivalTime":"4:17",
             "departureDate":"1/19/3862",
@@ -27,7 +27,7 @@
       {
          "inbound":{
             "airline":"Archonei",
-            "airlineImage":"http://dragonimages.net/images/gallery/dragon-images-by-unknown-222.jpg",
+            "airlineImage":"https://raw.githubusercontent.com/navi-projects/stubs/main/api/images/iceland.png",
             "arrivalDate":"9/13/4849",
             "arrivalTime":"21:30",
             "departureDate":"9/12/4846",
@@ -37,7 +37,7 @@
          },
          "outbound":{
             "airline":"Valryon",
-            "airlineImage":"http://dragonimages.net/images/gallery/dragon-images-by-unknown-229.jpg",
+            "airlineImage":"https://raw.githubusercontent.com/navi-projects/stubs/main/api/images/qatar.png",
             "arrivalDate":"10/25/4938",
             "arrivalTime":"1:20",
             "departureDate":"8/29/4936",
@@ -51,7 +51,7 @@
 	  {
          "inbound":{
             "airline":"Sunfyre",
-            "airlineImage":"http://dragonimages.net/images/gallery/dragon-images-by-unknown-239.jpg",
+            "airlineImage":"https://raw.githubusercontent.com/navi-projects/stubs/main/api/images/austrian.png",
             "arrivalDate":"8/29/3801",
             "arrivalTime":"5:59",
             "departureDate":"1/29/3794",
@@ -61,7 +61,7 @@
          },
          "outbound":{
             "airline":"Ghiscar",
-            "airlineImage":"http://dragonimages.net/images/gallery/dragon-images-by-unknown-234.jpg",
+            "airlineImage":"https://raw.githubusercontent.com/navi-projects/stubs/main/api/images/asiana.png",
             "arrivalDate":"1/30/3871",
             "arrivalTime":"4:17",
             "departureDate":"1/19/3862",
@@ -75,7 +75,7 @@
       {
          "inbound":{
             "airline":"Asiana",
-            "airlineImage":"http://dragonimages.net/images/gallery/dragon-images-by-unknown-222.jpg",
+            "airlineImage":"https://raw.githubusercontent.com/navi-projects/stubs/main/api/images/airindia.png",
             "arrivalDate":"9/13/4849",
             "arrivalTime":"21:30",
             "departureDate":"9/12/4846",
@@ -85,7 +85,7 @@
          },
          "outbound":{
             "airline":"Air India",
-            "airlineImage":"http://dragonimages.net/images/gallery/dragon-images-by-unknown-229.jpg",
+            "airlineImage":"https://raw.githubusercontent.com/navi-projects/stubs/main/api/images/qatar.png",
             "arrivalDate":"10/25/4938",
             "arrivalTime":"1:20",
             "departureDate":"8/29/4936",

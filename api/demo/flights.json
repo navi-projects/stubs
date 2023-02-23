@@ -129,7 +129,7 @@
             "departureDate":"9/12/4846",
             "departureTime":"16:33",
             "destination":"Seoul",
-            "origin":"Newyork"
+            "origin":"New York"
          },
          "outbound":{
             "airline":"Air India",
@@ -138,11 +138,59 @@
             "arrivalTime":"15:20",
             "departureDate":"8/29/4936",
             "departureTime":"18:12",
-            "destination":"Newyork",
+            "destination":"New York",
             "origin":"Seoul"
          },
-         "price":4556.91,
+         "price":404500.0,
          "currency":"JPY"
+      },
+	   {
+         "inbound":{
+            "airline":"Air India",
+            "airlineImage":"https://raw.githubusercontent.com/navi-projects/stubs/main/api/images/austrian.png",
+            "arrivalDate":"8/29/3801",
+            "arrivalTime":"5:59",
+            "departureDate":"1/29/3494",
+            "departureTime":"23:10",
+            "destination":"New Delhi",
+            "origin":"Bangalore"
+         },
+         "outbound":{
+            "airline":"Indigo",
+            "airlineImage":"https://raw.githubusercontent.com/navi-projects/stubs/main/api/images/austrian.png",
+            "arrivalDate":"1/30/3871",
+            "arrivalTime":"4:17",
+            "departureDate":"1/19/3862",
+            "departureTime":"12:40",
+            "destination":"Bangalore",
+            "origin":"New Delhi"
+         },
+         "price":2623.00,
+         "currency":"USD"
+      },
+      {
+         "inbound":{
+            "airline":"Air France",
+            "airlineImage":"https://raw.githubusercontent.com/navi-projects/stubs/main/api/images/austrian.png",
+            "arrivalDate":"9/13/4849",
+            "arrivalTime":"21:30",
+            "departureDate":"9/12/4846",
+            "departureTime":"16:33",
+            "destination":"New York",
+            "origin":"Seoul"
+         },
+         "outbound":{
+            "airline":"Air Canada",
+            "airlineImage":"https://raw.githubusercontent.com/navi-projects/stubs/main/api/images/austrian.png",
+            "arrivalDate":"10/25/4938",
+            "arrivalTime":"15:20",
+            "departureDate":"8/29/4936",
+            "departureTime":"18:12",
+            "destination":"Seoul",
+            "origin":"New York"
+         },
+         "price":3556.91,
+         "currency":"GBP"
       }
    ]
 }

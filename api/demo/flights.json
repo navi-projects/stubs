@@ -95,6 +95,54 @@
          },
          "price":2456.95,
          "currency":"EUR"
+      },
+	{
+         "inbound":{
+            "airline":"Air India",
+            "airlineImage":"https://raw.githubusercontent.com/navi-projects/stubs/main/api/images/qatar.png",
+            "arrivalDate":"8/29/3801",
+            "arrivalTime":"5:59",
+            "departureDate":"1/29/3494",
+            "departureTime":"23:10",
+            "destination":"Bangalore",
+            "origin":"New Delhi"
+         },
+         "outbound":{
+            "airline":"Indigo",
+            "airlineImage":"https://raw.githubusercontent.com/navi-projects/stubs/main/api/images/srilankan.png",
+            "arrivalDate":"1/30/3871",
+            "arrivalTime":"4:17",
+            "departureDate":"1/19/3862",
+            "departureTime":"12:40",
+            "destination":"New Delhi",
+            "origin":"Bangalore"
+         },
+         "price":2823.21,
+         "currency":"USD"
+      },
+      {
+         "inbound":{
+            "airline":"Asiana",
+            "airlineImage":"https://raw.githubusercontent.com/navi-projects/stubs/main/api/images/airindia.png",
+            "arrivalDate":"9/13/4849",
+            "arrivalTime":"21:30",
+            "departureDate":"9/12/4846",
+            "departureTime":"16:33",
+            "destination":"Seoul",
+            "origin":"Newyork"
+         },
+         "outbound":{
+            "airline":"Air India",
+            "airlineImage":"https://raw.githubusercontent.com/navi-projects/stubs/main/api/images/qatar.png",
+            "arrivalDate":"10/25/4938",
+            "arrivalTime":"15:20",
+            "departureDate":"8/29/4936",
+            "departureTime":"18:12",
+            "destination":"Newyork",
+            "origin":"Seoul"
+         },
+         "price":4556.91,
+         "currency":"JPY"
       }
    ]
 }
